@@ -1,0 +1,10 @@
+Guna Deepak Reedy Tippala:
+- Kafka setup
+- Sensor producer
+- Sensor validation consumer
+
+Yash Punna:
+- External API producer
+- External consumer
+- Curated pipelines
+- Cloud storage copy
